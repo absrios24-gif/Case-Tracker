@@ -1,4 +1,3 @@
-cat > src/app/dashboard/page.tsx << 'EOF'
 'use client'
 export default function Dashboard() {
   return (
@@ -9,4 +8,3 @@ export default function Dashboard() {
     </div>
   )
 }
-EOF
